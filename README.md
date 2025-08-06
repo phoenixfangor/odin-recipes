@@ -1,1 +1,1 @@
-This is a basic recipes website.
+This is a basic recipes website and you can see it at https://phoenixfangor.github.io/odin-recipes/
